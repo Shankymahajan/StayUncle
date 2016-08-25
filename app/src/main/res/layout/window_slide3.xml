@@ -4,18 +4,9 @@
     android:layout_height="match_parent"
     android:background="@color/bg_screen3">
 
-    <LinearLayout
-        android:layout_margin="20dp"
-        android:layout_width="@dimen/img_width_height"
-        android:layout_height="@dimen/img_width_height"
-        android:gravity="top"
-        android:layout_alignParentTop="true"
-        android:id="@+id/linearLayout"
-        android:orientation="horizontal">
 
 
 
-    </LinearLayout>
     <LinearLayout
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
@@ -50,12 +41,5 @@
             />
     </LinearLayout>
 
-    <ImageView
 
-        android:layout_gravity="center"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:src="@drawable/police"
-        android:layout_alignBottom="@+id/linearLayout"
-        android:layout_centerHorizontal="true" />
 </RelativeLayout>
