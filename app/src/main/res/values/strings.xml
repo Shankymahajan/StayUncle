@@ -10,4 +10,23 @@
     <string name="repeat_password">Repeat Password</string>
     <string name="next">NEXT</string>
     <string name="register">REGISTER</string>
+    <string name="title_activity_welcome">Home Screen</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IT</string>
+
+    <string name="slide_1_title">Happy Coupling</string>
+    <string name="slide_1_desc">Couples need a Room, not a Judgement.</string>
+
+    <string name="slide_2_title">Pay Per Hour</string>
+    <string name="slide_2_desc">Book a hotel for 10 hours, pay only for 10 hours. Couple Stays.</string>
+
+    <string name="slide_3_title">Stay Safe</string>
+    <string name="slide_3_desc">Our Priority is to keep you safe from ...(you know what I mean)</string>
+
+    <string name="slide_4_title">World Travel</string>
+    <string name="slide_4_desc">Book tickets of any transportation and travel the world!</string>
+
+    <string name="play_again_desc">To see the welcome slider again, goto Settings -> apps -> welcome slider -> clear data</string>
+    <string name="play_again">Play Again</string>
+
 </resources>
